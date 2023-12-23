@@ -1,2 +1,1 @@
-download the set data from: 
-https://lorcanajson.org/
+From the dataset in: https://lorcanajson.org/
