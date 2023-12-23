@@ -1,1 +1,3 @@
-From the dataset in: https://lorcanajson.org/
+Starting point for a tool to manage own lorcana cards
+dataset is taken from: https://lorcanajson.org/
+ 
