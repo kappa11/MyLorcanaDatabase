@@ -11,7 +11,7 @@ Script to organize and manage your own lorcana database.
 
 * Script can read all the information about the expansion (set) and the list of cards
 * Each cards is linked also to the set 
-* It can link to the image of the cards
+* It can link to the image of the cards (it open a new window in your browser) 
 
 ## Output
 
