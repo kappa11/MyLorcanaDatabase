@@ -16,4 +16,9 @@ Script to organize and manage your own lorcana database.
 
 1. CSV file with the list of cards you own with all the details about the cards
 2. CSV file with the cards you are missing and you need to buy!
+
+## How to run
+
+In the folder where the script are: 
+```python main.py ```
    
