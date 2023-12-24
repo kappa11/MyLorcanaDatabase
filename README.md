@@ -24,4 +24,6 @@ In the folder where the script are:
 ```python main.py ```
 
 ## Example run:
-<img width="671" alt="Screenshot 2023-12-23 at 17 44 32" src="https://github.com/kappa11/MyLorcanaDatabase/assets/26191853/6ecfe6ec-5c62-4fb5-a440-7673d9f2f328">
+
+![image](https://github.com/kappa11/MyLorcanaDatabase/assets/26191853/d486d729-2cdc-4c98-b4f8-b08c31e44506)
+
